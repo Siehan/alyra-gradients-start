@@ -1,3 +1,4 @@
+import React from "react";
 import Gradient from "./components/Gradient";
 
 const App = () => (
